@@ -1,0 +1,10 @@
+{
+    "name": "mungurs/vue",
+    "authors": [
+        {
+            "name": "Martins Ungurs",
+            "email": "martins.ungurs@cube.lv"
+        }
+    ],
+    "require": {}
+}
